@@ -1,4 +1,11 @@
 # .github
+
+<p align="center">
+  <img src="images/Logo-I&D_V3.png" alt="Logo PreDeeption" width="250"/>
+</p>
+
+![Forecast Example](images/example_forecast.png)
+
 The Image & Data Science group of LRCS laboratory/RS2E network, led by Arnaud Demortière (Director of research at CNRS), is a multidisciplinary research team combining expertise in chemistry, physics, data science, and artificial intelligence. Our mission is to unravel the complex dynamic processes that drive degradation mechanisms in lithium-ion and sodium-ion batteries. To achieve this, we leverage cutting-edge experimental methodologies and state-of-the-art characterization tools.
  
 
