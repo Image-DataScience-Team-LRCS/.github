@@ -1,4 +1,3 @@
-# .github
 
 <p align="center">
   <img src="images/Logo-I&D_V3.png" alt="Logo PreDeeption" width="250"/>
